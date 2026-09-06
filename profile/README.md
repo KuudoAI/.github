@@ -13,7 +13,7 @@ Kuudo connects Amazon Ads, AMC, SP-API, and Vendor Central to ChatGPT, Claude, C
 ## Products
 
 - [**Amazon Ads MCP**](https://www.kuudo.com/features/amazon-ads-mcp/) — the entire Amazon Ads stack: 711 operations across 55 services, from Sponsored Products to DSP and AMC. Open source.
-- [**Amazon Selling Partner MCP**](https://www.kuudo.com/features/amazon-selling-partner-mcp/) — the entire Selling Partner API: 304 operations across 40+ services, from Catalog and Orders to FBA and A+ Content.
+- [**Amazon Selling Partner MCP**](https://www.kuudo.com/features/amazon-selling-partner-mcp/) — the entire Selling Partner API: 304 operations across 40+ services, from Catalog and Orders to FBA and A+ Content. ([repository](https://github.com/KuudoAI/amazon-selling-partner-mcp))
 - [**Amazon Vendor Central MCP**](https://www.kuudo.com/features/amazon-vendor-central-mcp/) — every Vendor Central function: Direct Fulfillment, Retail Procurement, Data Kiosk, and analytics.
 - [**Amazon Agent Iris**](https://www.kuudo.com/features/amazon-agent-iris/) — generates, edits, and audits compliant, on-brand product images from your live listings and ads.
 - [**Amazon Agent Atlas**](https://www.kuudo.com/features/agent-atlas/) — the Amazon knowledge your agent didn't have to earn: 7,589 indexed documents plus a hand-built decision rulebook.
