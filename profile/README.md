@@ -19,7 +19,7 @@ Kuudo connects Amazon Ads, AMC, SP-API, and Vendor Central to ChatGPT, Claude, C
 - [**Amazon Agent Atlas**](https://www.kuudo.com/features/agent-atlas/) — the Amazon knowledge your agent didn't have to earn: 55,844 content indexes across Ads, Seller, and Vendor, plus a hand-built decision rulebook. ([repository](https://github.com/KuudoAI/amazon-agent-atlas-mcp))
 - [**Amazon Agent Crawl**](https://www.kuudo.com/features/agent-crawl/) — one endpoint, any product question, answer-shaped output.
 - [**Amazon Agent Flow**](https://www.kuudo.com/features/amazon-agent-flow/) — turns Selling Partner and Ads into a durable, query-ready data layer your agents can act on.
-- [**Skills**](https://www.kuudo.com/features/skills/) — guided, multi-step automations for real Amazon Ads and Seller workflows.
+- [**Skills**](https://www.kuudo.com/features/skills/) — guided, multi-step automations for real Amazon Ads and Seller workflows. ([repository](https://github.com/KuudoAI/skills))
 
 ## Get started
 
